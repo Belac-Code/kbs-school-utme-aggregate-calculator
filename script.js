@@ -1,4 +1,4 @@
-<script>
+
 // ---------------- DATA LAYER ----------------
 const DATA = {
   RSU: {
@@ -427,4 +427,4 @@ document.getElementById('rtAgain').addEventListener('click', (e)=>{
 
 // initialize score inputs for default (no university selected) state
 configureScoreInputs('');
-</script>
+
